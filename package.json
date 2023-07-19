@@ -1,0 +1,27 @@
+{
+  "name": "address-parser",
+  "version": "1.0.0",
+  "description": "A pretty bad and crude address and name parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrett Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "addresser": "1.1.20",
+    "zcs": "2.8.3",
+    "xlsx": "0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.2",
+    "typescript": "5.1.6",
+    "ts-node": "10.9.1",
+    "lint-staged": "10.0.8",
+    "tslint": "6.0.0",
+    "tslint-config-prettier": "1.18.0",
+    "tslint-consistent-codestyle": "1.15.1",
+    "prettier": "2.7.1",
+    "rimraf": "3.0.0"
+  }
+}
