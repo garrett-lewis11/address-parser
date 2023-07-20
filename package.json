@@ -4,7 +4,7 @@
   "description": "A pretty bad and crude address and name parser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node script.ts"
   },
   "author": "Garrett Lewis",
   "license": "ISC",
